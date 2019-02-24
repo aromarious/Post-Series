@@ -1,0 +1,14 @@
+{
+    "name": "aromarious/PostSeries",
+    "description": "This Wordpress plugin enables you to handle series of your posts.",
+    "authors": [
+        {
+            "name": "aromarious",
+            "email": "me@aromarious.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
